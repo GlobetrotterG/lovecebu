@@ -15,8 +15,20 @@ But above all, Cebu is my hometown, and where I grew up before moving overseas. 
 As we say in the Philippines, **"Mabuhay!" ("Welcome!").** 
 
 
+# UX 
 
+## 1) Goals of the Project (Love Cebu! wants to:)
 
+I chose Love Cebu!, as the name of my website and for this project, is because I got the inspiration from Cape Town, South Africa’s travel website called [“Love Capetown,”](https://www.capetown.travel/).
+
+But aside from that, I want people to know that there’s a reason to Love Cebu! Through this website. Furthermore, Love Cebu! wants to: 
+
+* To attract users with the content and look of the entire website.
+* To provide information to users and making it interactive.
+* To drive attraction and attention to users who are planning to visit the island and are looking for information under one website. 
+* To promote the island’s tourism and the reason why Cebu should be their choice of destination.  
+* To provide information to users in terms of activities and affordability that suits their needs of Cebu.
+* To attract both international and local users to visit Cebu through the information provided on the site. 
 
 
 
