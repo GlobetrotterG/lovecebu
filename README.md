@@ -39,7 +39,12 @@ But aside from that, I want people to know that there’s a reason to Love Cebu!
 * To give a message that it is personally speaking to the user to invite them to Cebu. 
 * To encourage users to use our affiliate links without going through an external site to monetize the site. 
 
+## 3) Love Cebu! Users require: 
 
+* The site can be accessed on Desktop, Mobile, and Tablet.
+* A contact page to reach out to the site owner.
+* Social media pages when they need to alternatively contact site owner outside the Love Cebu! Website.
+* The site to be consistently responsive. 
 
 
 
