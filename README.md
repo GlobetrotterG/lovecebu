@@ -55,4 +55,13 @@ But aside from that, I want people to know that there’s a reason to Love Cebu!
 * That the site is easy to navigate and will provide information that fits what they’re looking for. 
 * Advice on how to get to Cebu and the cost of getting there or expenses on activities, food, and drinks. 
 
+## 5) User Stories: 
+
+* As a user, I want to search for an alternative travel destination that is warm all year round.*
+* As a user, I want to find information about the destination all in one site.
+* As a user, I want to find activities that are based on my interest. 
+* As a user, I want to receive essential information regarding destination and travel booking options.
+* As a user, I want to find a destination that fits my budget. 
+* As a user, I want a travel website that can respond to any further queries that I may have. 
+* As a user, I want to be immersed in the destination as if I am already there.
 
