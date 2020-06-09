@@ -47,4 +47,12 @@ But aside from that, I want people to know that there’s a reason to Love Cebu!
 * The site to be consistently responsive. 
 
 
+## 4) Love Cebu! Users expect: 
+
+* A site that has images and videos of Cebu. 
+* A link for when they would like to book travel arrangements to Cebu. 
+* A site that has a social media page when they want to interact and engage with the site owner via those channels. 
+* That the site is easy to navigate and will provide information that fits what they’re looking for. 
+* Advice on how to get to Cebu and the cost of getting there or expenses on activities, food, and drinks. 
+
 
