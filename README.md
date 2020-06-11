@@ -70,9 +70,4 @@ But aside from that, I want people to know that there’s a reason to Love Cebu!
 
 My wireframes were all created using [Balsamiq wireframes](https://balsamiq.com/). I’ve individually created wireframes for Desktop, Tablet, and Mobile versions. 
 
-### View my wireframes:
-
-#### For Desktop, click [here](https://github.com/GlobetrotterG/Love-Cebu-/tree/master/wireframes/desktop%20wireframes%20pdf).
-#### For Tablet, click [here](https://github.com/GlobetrotterG/Love-Cebu-/tree/master/wireframes/tablet%20wireframes%20pdf).
-#### For Mobile, click [here](https://github.com/GlobetrotterG/Love-Cebu-/tree/master/wireframes/mobile%20wireframes%20pdf).
-
+### To view my wireframes, [click here.](https://github.com/GlobetrotterG/lovecebu/tree/master/wireframes)
