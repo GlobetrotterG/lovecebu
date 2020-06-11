@@ -2,6 +2,9 @@
 
 ### Thank you for checking my project! And Welcome to Love Cebu! 
 
+
+
+
 This is my First Milestone project for the Code Institute working towards a Diploma in Software Development. 
 
 After considering my First project, I decided to create Love Cebu!, a travel website, solely focusing on Cebu in the Philippines. 
@@ -57,7 +60,7 @@ But aside from that, I want people to know that there’s a reason to Love Cebu!
 
 ## 5) User Stories: 
 
-* As a user, I want to search for an alternative travel destination that is warm all year round.*
+* As a user, I want to search for an alternative travel destination that is warm all year round.
 * As a user, I want to find information about the destination all in one site.
 * As a user, I want to find activities that are based on my interest. 
 * As a user, I want to receive essential information regarding destination and travel booking options.
