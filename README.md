@@ -2,10 +2,8 @@
 
 ### Thank you for checking my project! And Welcome to Love Cebu! 
 
+![lovecebulogo](assets/logo/lovecebulogo.png)
 
-
-
-This is my First Milestone project for the Code Institute working towards a Diploma in Software Development. 
 
 After considering my First project, I decided to create Love Cebu!, a travel website, solely focusing on Cebu in the Philippines. 
 
@@ -15,7 +13,7 @@ Cebu is the 2nd largest city in the Philippines and is located in the heart of t
 
 But above all, Cebu is my hometown, and where I grew up before moving overseas. Having this as my first project is an honour and tribute to the island of Cebu.
 
-As we say in the Philippines, **"Mabuhay!" ("Welcome!").** 
+As we say in the Philippines, **_"Mabuhay!" ("Welcome!")._** 
 
 
 # UX 
