@@ -16,64 +16,351 @@
     <title>Love Cebu!</title>
   </head>
   <body>
+    <!-- Brand name and Navigation -->
 
-  <!-- Brand name and Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <div class="container-fluid">
-    <div class="mx-auto">
-      <a class="navbar-brand" href="#"><img src="assets/logo/lovecebulogo.png" alt="brand logo" width="300"></a>
+    <nav class="navbar navbar-expand-lg">
+      <div class="img-fluid">
+        <a class="navbar-brand" href="index.html"
+          ><img src="assets/logo/lovecebulogo.png" alt="brand logo" width="300"
+        /></a>
       </div>
-      <div class="mx-auto">
-      <button
-        class="navbar-toggler"
-        type="button"
-        data-toggle="collapse"
-        data-target="#navbarNav"
-        aria-controls="navbarNav"
-        aria-expanded="false"
-        aria-label="Toggle navigation"
-      >
-        <span class="navbar-toggler-icon"></span>
-      </button>
+      <div class="container">
+        <button
+          class="navbar-toggler mx-auto"
+          type="button"
+          data-toggle="collapse"
+          data-target="#collapsibleNavbar"
+        >
+          <i class="fas fa-bars"></i>
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse mx-auto" id="collapsibleNavbar">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="Home">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="experience-cebu">Experience Cebu</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="ready-to-visit">Ready to Visit?</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="about">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="contact">Contact Us</a>
+            </li>
+          </ul>
+        </div>
+        <div class="weather-widget mx-auto img-fluid">
+          <a target="_blank" href="https://www.booked.net/weather/cebu-19019"
+            ><img
+              src="https://w.bookcdn.com/weather/picture/30_19019_1_1_f1c411_250_f39c13_ffffff_ffffff_1_2071c9_ffffff_0_6.png?scode=124&domid=579&anc_id=65523"
+              alt="booked.net"
+          /></a>
+        </div>
       </div>
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav">
-          <li class="nav-item active">
-            <a class="nav-link" href="#"
-              >Home<span class="sr-only">(current)</span></a
+    </nav>
+
+    <!-- video -->
+    <div class="jumbotron">
+      <div class="container">
+        <div class="welcome-text">
+          <h1 class="welcome-to-cebu">
+            <span class="co1">Cebu...</span> <span class="co2">Queen</span>
+            <span class="co3">City</span> <span class="co1">of</span>
+            <span class="co2">the</span> <span class="co3">South!</span>
+          </h1>
+        </div>
+        <br />
+        <div class="embed-responsive embed-responsive-16by9 cebu-video">
+          <iframe
+            class="embed-responsive-item"
+            src="assets/video/cebuvideo.mp4"
+            allowfullscreen
+          ></iframe>
+        </div>
+      </div>
+    </div>
+    <br />
+
+    <!-- Intro & Feature Section -->
+    <section id="cebu-intro">
+      <div class="container-fluid cebu-content">
+        <h2 class="text-center mabuhay-title color-code">
+          It's More Fun In Cebu!
+        </h2>
+        <div class="container" id="cebu-paragraph">
+          <p>
+            Cebu is the oldest city in the Philippines, after it was First
+            discovered by the Spaniards and the Portuguese explorer Ferdinand
+            Magellan in 1521. It became the First Christian island in the
+            Philippines and the First settlement of the Spaniards.
+          </p>
+          <p class>
+            Fast forward... Cebu is the 2nd largest city in the Philippines,
+            (Manila being the Capital city) and is one of the most visited in
+            Asia, by both international and local visitors. From North to South,
+            Cebu has a lot to offer.
+          </p>
+          <p class>We are looking forward to having you here in Cebu!</p>
+        </div>
+      </div>
+    </section>
+    <br />
+
+    <!-- Feature Section -->
+    <section>
+     <h2 class="color-code mx-auto">Feature Section</h2>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6 h3-text">
+            <h3>Experience Cebu</h3>
+            <img
+              class="img-fluid feature-border"
+              src="assets/images/kawasan2.jpg" height="280" width="370"
+              alt="diving"
+            />
+            <p>
+              Discover what Cebu has to offer on land and sea.
+            </p>
+            <a href="#" type="_blank"><button type="button" class="btn btn-light feature-button">Click Here</button></a>
+         </div>
+          <div class="col-lg-6 h3-text">
+          <h3>Ready to Visit?</h3>
+          <img
+            class="img-fluid feature-border"
+            src="assets/images/mabuhaypic.jpg" height="280" width="372"
+            alt="airline-magazine"
+          />
+            <p class>
+              Discover what Cebu has to offer on land and sea.
+            </p>
+            <a href="#" target="_blank"><button type="button" class="btn btn-light feature-button">Click Here</button></a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Gallery Photos -->
+
+    <div class="container">
+      <br />
+      <h2 class="color-code">Photographs of Cebu</h2>
+      <p>
+        Be sure to follow us on our
+        <span
+          ><a target="_blank" href="https://www.instagram.com/"
+            >Instagram</a
+          ></span
+        >
+        page and tag us with your Cebu photos!
+      </p>
+      <br />
+      <div class="Instagram-link target=_blank">
+        <a target="_blank" href="https://www.instagram.com/"
+          ><img
+            class="ig-logo"
+            src="assets/logo/instagram-logo.png"
+            alt="instagram-logo"
+          />
+          <span class="sr-only">Instagram</span></a
+        >
+      </div>
+      <br />
+      <div class="row" id="gallery-pics">
+        <div class="col-lg-3 d-flex justify-content-center img-fluid">
+          <a target="_blank" href="https://www.instagram.com/">
+            <img
+              src="assets/images/whalesharkpic.jpg"
+              alt="whale-shark"
+              width="280"
+              height="373"
+          /></a>
+        </div>
+        <div class="col-lg-3 d-flex justify-content-center img-fluid">
+          <a target="_blank" href="https://www.instagram.com/">
+            <img src="assets/images/cebukeyring.png" alt="keyring"
+          /></a>
+        </div>
+        <div class="col-lg-3 d-flex justify-content-center img-fluid">
+          <a target="_blank" href="https://www.instagram.com/">
+            <img src="assets/images/cebubeer.jpg" alt="cebu-beer"
+          /></a>
+        </div>
+        <div class="col-lg-3 d-flex justify-content-center img-fluid">
+          <a target="_blank" href="https://www.instagram.com/"
+            ><img
+              src="assets/images/hukad.jpg"
+              alt="food-image"
+              width="280"
+              height="373"
+          /></a>
+        </div>
+        <div class="col-lg-3 d-flex justify-content-center img-fluid">
+          <a target="_blank" href="https://www.instagram.com/"
+            ><img
+              src="assets/images/siraohand.png"
+              alt="hand-statue"
+              width="280"
+              height="373"
+          /></a>
+        </div>
+        <div class="col-lg-3 d-flex justify-content-center img-fluid">
+          <a target="_blank" href="https://www.instagram.com/"
+            ><img
+              src="assets/images/kawasanfalls.jpg"
+              alt="waterfalls"
+              width="280"
+              height="373"
+          /></a>
+        </div>
+        <div class="col-lg-3 d-flex justify-content-center img-fluid">
+          <a target="_blank" href="https://www.instagram.com/"
+            ><img src="assets/images/torta.jpg" alt="torta"
+          /></a>
+        </div>
+        <div class="col-lg-3 d-flex justify-content-center img-fluid">
+          <a target="_blank" href="https://www.instagram.com/"
+            ><img src="assets/images/anjoworld.jpg" alt="ferriswheel"
+          /></a>
+        </div>
+      </div>
+    </div>
+    <br />
+
+    <!-- Contact Us -->
+
+    <h2 class="color-code">Contact Us</h2>
+    <br />
+    <form id="main-form">
+      <div class="container form-border">
+        <div class="justify-content-center">
+          <div class="col">
+            <h4>Get in touch with us</h4>
+            <div class="form-group">
+              <label for="name"></label>
+              <input
+                type="name"
+                class="form-control"
+                placeholder="Name"
+                id="nameinfo"
+              />
+            </div>
+          </div>
+          <div class="col">
+            <div class="form-group">
+              <label for="country"></label>
+              <input
+                type="country"
+                class="form-control"
+                placeholder="Country"
+                id="country-id"
+              />
+            </div>
+          </div>
+          <div class="col">
+            <div class="form-group">
+              <label for="email"></label>
+              <input
+                type="email"
+                class="form-control"
+                placeholder="Enter email"
+                id="email"
+              />
+            </div>
+          </div>
+          <div class="col">
+            <div class="form-group">
+              <label for="messagehere"></label>
+              <textarea
+                class="form-control"
+                id="yourmessagehere"
+                placeholder="Your Message"
+                rows="3"
+              ></textarea>
+            </div>
+          </div>
+          <div class="col">
+            <button type="submit" class="btn btn-primary">Submit</button>
+          </div>
+        </div>
+      </div>
+    </form>
+    <br />
+
+    <!-- Footer  -->
+
+    <footer>
+      <div class="social-links">
+        <ul class="nav justify-content-center">
+          <li class="nav-item">
+            <a
+              class="nav-link active"
+              target="_blank"
+              href="https://www.facebook.com/"
+              >Facebook
+              <i class="fab fa-facebook" aria-hidden="true"></i>
+              <span class="sr-only">Facebook</span></a
             >
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Experience Cebu</a>
+            <a
+              class="nav-link active"
+              target="_blank"
+              href="https://www.instagram.com/"
+              >Instagram
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+              <span class="sr-only">Instagram</span></a
+            >
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Ready to Visit?</a>
+            <a
+              class="nav-link active"
+              target="_blank"
+              href="https://www.pinterest.com/"
+              >Pinterest
+              <i class="fab fa-pinterest" aria-hidden="true"></i>
+              <span class="sr-only">Pinterest</span></a
+            >
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">About</a>
+            <a
+              class="nav-link active"
+              target="_blank"
+              href="https://www.twitter.com/"
+              >Twitter
+              <i class="fab fa-twitter" aria-hidden="true"></i>
+              <span class="sr-only">Twitter</span></a
+            >
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Contact</a>
+            <a
+              class="nav-link active"
+              target="_blank"
+              href="https://www.youtube.com/"
+              >YouTube
+              <i class="fab fa-youtube" aria-hidden="true"></i>
+              <span class="sr-only">YouTube</span></a
+            >
           </li>
         </ul>
+        <div class="footer-copyright text-center">
+          © 2020 Copyright All Rights Reserved
+          <br />
+          <div class="container img-fluid">
+            <a href="Home"
+              ><img
+                src="assets/logo/lovecebulogo.png"
+                alt="small-logo"
+                height="25"
+                width="auto"
+            /></a>
+          </div>
+        </div>
       </div>
-     </div>
-      <div class="weather-widget mx-auto">
-<!-- weather widget start -->
-        <a target="_blank" href="https://www.booked.net/weather/cebu-19019"><img src="https://w.bookcdn.com/weather/picture/30_19019_1_1_f1c411_250_f39c13_ffffff_ffffff_1_2071c9_ffffff_0_6.png?scode=124&domid=579&anc_id=65523"  alt="booked.net"/></a>
-<!-- weather widget end -->
-    </div>
-    </nav>
-
-<!-- video -->
-
-<!-- Intro & Feature Section -->
-
-<!-- Gallery Photos -->
-
-<!-- Contact Us -->
-
-<!-- Footer -->
+    </footer>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
