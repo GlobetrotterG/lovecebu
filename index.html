@@ -266,146 +266,83 @@
     </div>
     <br />
 
-    <!-- Contact Us -->
-
-    <form id="main-form">
-      <div class="container">
-        <div class="justify-content-center">
-          <div id="section-border">
-            <h2 class="color-code section-border margin-adjustment">
-              Contact Us
-            </h2>
-          </div>
-          <div class="form-border">
-            <div class="col">
-              <h4>Get in touch with us!</h4>
-              <div class="form-group">
-                <label for="name"></label>
-                <input
-                  type="name"
-                  class="form-control"
-                  placeholder="Name"
-                  id="nameinfo"
-                />
-              </div>
-            </div>
-            <div class="col">
-              <div class="form-group">
-                <label for="country"></label>
-                <input
-                  type="country"
-                  class="form-control"
-                  placeholder="Country"
-                  id="country-id"
-                />
-              </div>
-            </div>
-            <div class="col">
-              <div class="form-group">
-                <label for="email"></label>
-                <input
-                  type="email"
-                  class="form-control"
-                  placeholder="Enter email"
-                  id="email"
-                />
-              </div>
-            </div>
-            <div class="col">
-              <div class="form-group">
-                <label for="messagehere"></label>
-                <textarea
-                  class="form-control"
-                  id="yourmessagehere"
-                  placeholder="Your Message"
-                  rows="3"
-                ></textarea>
-              </div>
-            </div>
-            <div class="col">
-              <button type="submit" class="btn btn-light feature-button">
-                Submit
-              </button>
-            </div>
-          </div>
-        </div>
+    	<!-- Contact Form -->
+	<section class="container justify-center">
+    <div id="section-border">
+        <h2 class="color-code margin-adjustment">Contact Us</h2>
       </div>
-    </form>
-    <br />
+		<div class="row form-border">
+          <div class="col">
+				<div id="center-form">
+					<form>
+						<label>Name</label>
+						    <input type="text" name="name" id="fullname" class="form-control" required />
+						<label>Country</label>
+						    <input type="text" name="countryname" id="countryname" class="form-control" required />
+						<label>Email Address</label>
+						    <input type="email" name="email" id="emailaddress" class="form-control" required />
+						<label>Your Message</label>
+						    <textarea rows="5" name="message" id="messageform" class="form-control" required></textarea>
+                            <br>
+						<div class="form-row text-center">
+							<div class="col">
+								<button type="submit" class="btn btn-light feature-button">Send Message</button>
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</section>   
 
-    <!-- Footer  -->
-    <footer class="footer-margin">
-      <div class="social-links">
-        <ul class="nav justify-content-center">
-          <li class="nav-item">
-            <a
-              class="nav-link active"
-              target="_blank"
-              href="https://www.facebook.com/"
-              >Facebook
-              <i class="fab fa-facebook" aria-hidden="true"></i>
-              <span class="sr-only">Facebook</span></a
-            >
-          </li>
-          <li class="nav-item">
-            <a
-              class="nav-link active"
-              target="_blank"
-              href="https://www.instagram.com/"
-              >Instagram
-              <i class="fab fa-instagram" aria-hidden="true"></i>
-              <span class="sr-only">Instagram</span></a
-            >
-          </li>
-          <li class="nav-item">
-            <a
-              class="nav-link active"
-              target="_blank"
-              href="https://www.pinterest.com/"
-              >Pinterest
-              <i class="fab fa-pinterest" aria-hidden="true"></i>
-              <span class="sr-only">Pinterest</span></a
-            >
-          </li>
-          <li class="nav-item">
-            <a
-              class="nav-link active"
-              target="_blank"
-              href="https://www.twitter.com/"
-              >Twitter
-              <i class="fab fa-twitter" aria-hidden="true"></i>
-              <span class="sr-only">Twitter</span></a
-            >
-          </li>
-          <li class="nav-item">
-            <a
-              class="nav-link active"
-              target="_blank"
-              href="https://www.youtube.com/"
-              >YouTube
-              <i class="fab fa-youtube" aria-hidden="true"></i>
-              <span class="sr-only">YouTube</span></a
-            >
-          </li>
-        </ul>
-        <div class="footer-copyright text-center">
-          © 2020 Copyright All Rights Reserved
-          <br />
-          <div class="container img-fluid">
-            <a href="index.html"
-              ><img
+	<!-- Footer  -->
+	<footer class="footer-margin">
+		<div class="social-links">
+			<ul class="nav justify-content-center">
+				<li class="nav-item">
+					<a class="nav-link active" target="_blank" href="https://www.facebook.com/">Facebook
+						<i class="fab fa-facebook" aria-hidden="true"></i>
+						<span class="sr-only">Facebook</span></a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link active" target="_blank" href="https://www.instagram.com/">Instagram
+						<i class="fab fa-instagram" aria-hidden="true"></i>
+						<span class="sr-only">Instagram</span></a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link active" target="_blank" href="https://www.pinterest.com/">Pinterest
+						<i class="fab fa-pinterest" aria-hidden="true"></i>
+						<span class="sr-only">Pinterest</span></a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link active" target="_blank" href="https://www.twitter.com/">Twitter
+						<i class="fab fa-twitter" aria-hidden="true"></i>
+						<span class="sr-only">Twitter</span></a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link active" target="_blank" href="https://www.youtube.com/">YouTube
+						<i class="fab fa-youtube" aria-hidden="true"></i>
+						<span class="sr-only">YouTube</span></a>
+				</li>
+			</ul>
+			<div class="footer-copyright text-center">
+				© 2020 Copyright All Rights Reserved
+				<br />
+				<div class="container img-fluid">
+					<a href="index.html"><img
                 src="assets/logo/lovecebulogo.png"
                 alt="small-logo"
-                height="25"
-                width="auto"
+                height="100"
+                width="75"
             /></a>
-          </div>
-        </div>
-      </div>
-    </footer>
+				</div>
+			</div>
+		</div>
+	</footer>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js"></script>
-  </body>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js"></script>
+</body>
+
 </html>
