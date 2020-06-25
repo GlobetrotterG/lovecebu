@@ -16,7 +16,6 @@
     <title>Love Cebu!</title>
   </head>
   <body>
-
     <!-- Brand name and Navigation -->
     <nav class="navbar navbar-expand-lg">
       <div class="img-fluid">
@@ -55,6 +54,7 @@
             </li>
           </ul>
         </div>
+
         <!-- Weather widget courtesy of https://hotelmix.co.uk/widgets/weather -->
         <div class="weather-widget mx-auto img-fluid">
           <a target="_blank" href="https://www.booked.net/weather/cebu-19019"
@@ -83,12 +83,46 @@
           <span class="co2">Information</span> <span class="co1">&</span>
           <span class="co3">Advice</span>
         </h2>
-        <br />
+
+        <!-- code from embedgooglemap.net -->
+        <div class="mapouter container">
+          <div class="gmap_canvas embed-responsive embed-responsive-16by9">
+            <iframe
+              class="embed-responsive-item"
+              width="320"
+              height="338"
+              id="gmap_canvas"
+              src="https://maps.google.com/maps?q=cebu%2C%20philippines&t=&z=9&ie=UTF8&iwloc=&output=embed"
+              frameborder="0"
+              scrolling="no"
+              marginheight="0"
+              marginwidth="0"
+            ></iframe
+            ><a
+              href="https://www.embedgooglemap.net/blog/nordvpn-coupon-code/"
+            ></a>
+          </div>
+          <style>
+            .mapouter {
+              position: relative;
+              text-align: center;
+              height: 338px;
+              width: 320px;
+              margin-bottom: 20px;
+              margin-top: 20px;
+            }
+            .gmap_canvas {
+              overflow: hidden;
+              background: none !important;
+              height: 338px;
+              width: 320px;
+            }
+          </style>
+        </div>
         <div class="container-fluid" id="cebu-paragraph">
-          <p>
+          <h5 class="visit-intro">
             Before you plan your trip to Cebu, here are useful information:
-          </p>
-          <br />
+          </h5>
 
           <!-- Currency, language and season sections -->
           <h2 class="experience-list">Currency:</h2>
@@ -248,10 +282,10 @@
           <h2 class="experience-list">Airport:</h2>
           <p>
             Mactan Cebu International Airport is located in the island of
-            Mactan, and takes around 30 minutes to 1 hour to get to Cebu City (depending
-            on traffic). The easiest to get there is by taxi, although there are
-            also buses running from SM City Cebu Mall to Mactan Airport and
-            back.
+            Mactan, and takes around 30 minutes to 1 hour to get to Cebu City
+            (depending on traffic). The easiest to get there is by taxi,
+            although there are also buses running from SM City Cebu Mall to
+            Mactan Airport and back.
           </p>
           <br />
           <p>
@@ -263,7 +297,7 @@
             </a>
           </h5>
           <br />
-          
+
           <!-- Where to stay section -->
           <h2 class="experience-list">Where to stay?:</h2>
           <p>
@@ -302,7 +336,7 @@
     <br />
 
     <!-- Learn Cebuano words and phrases -->
-    <div class="container">
+    <div class="container table-responsive-sm">
       <h2 class="experience-list">Learn Cebuano</h2>
       <p>Impress the locals with some useful words and phrases in Cebuano</p>
       <table class="table table-bordered table-sm feature-border">
