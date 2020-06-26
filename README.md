@@ -153,6 +153,16 @@ My wireframes were all created using [Balsamiq wireframes](https://balsamiq.com/
 
 ## 4. about.html page
 
+### Navbar, Contact Us, and Footer
+* Similar to index.html
+
+### Jumbotron
+
+* The Section title "About Love Cebu" added and background photo similar to index.html. Text colour similar to Experience Cebu page.
+
+### Page content
+ * Has a Intro title "Who We Are" and an article about the person behind Love Cebu! site with my photo below the article. 
+
 ## 5. contact.html page
 
 # Color theme 
