@@ -182,10 +182,19 @@ My wireframes were all created using [Balsamiq wireframes](https://balsamiq.com/
 # Font 
 * Initially, 2 colours were chosen for the site. Merriweather and Lato. But I decided for uniformity, I went for Merriweather. 
 
-
 # Logo Design theme
+* Love Cebu! theme was chosen with the use of [Canva](https://www.canva.com/).
+* I chose the design because of the fun and personal theme it has. A Mango icon was added to the logo, which is a fruit that Cebu is known for.
+* These are the colour themes of the logo: 
+ * Love - #ff1616
+ * Cebu! - #ff914d
+ * Brush stroke background - #ffdcba
+ * Mango - had default colours of #47c098, #cb8456, #edaf1a, #f9b81d
+* The White background on the logo was removed using [remove.bg](https://www.remove.bg/).
+
 
 # Testing
+
 
 # Credits
 
