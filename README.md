@@ -213,6 +213,7 @@ My wireframes were all created using [Balsamiq wireframes](https://balsamiq.com/
     * [MD Bootsrap](https://mdbootstrap.com/)
     * [MDN Web Docs](https://developer.mozilla.org/en-US)
     * [CSS Tricks](https://css-tricks.com/)
+* When I'm unsure of something, I also look for similar questions on the [Stack Overflow forum](https://stackoverflow.com/)
 
 * External codes were also used for the following: 
     * Weather widget - provided by [Hotelmix.com](https://hotelmix.co.uk/?page=weather_widget_customize&type=30&cityID=18114&cmetric=1&gparams=30)
@@ -234,16 +235,42 @@ My wireframes were all created using [Balsamiq wireframes](https://balsamiq.com/
     * Atty. Mark Anthony Gaviola
     * Vhern Igoy
     * Jessa M. Gelbolingo
-
-
+* Instagram Icon on the Photographs of Cebu section was taken from [freepnglogos.com](https://www.freepnglogos.com/images/instagram-logo-png-2428.html).
 
 ## Links
-
+ * Some of the information that I've used for the articles on this site was taken from [Wikipedia]
+ * Links that are used on this site: 
+    * [Philippine Department of Foreign Affairs](https://consular.dfa.gov.ph/services/visa/visa-general-info)
+    * [Globe Telecom](https://www.globe.com.ph/)
+    * [Smart](https://smart.com.ph/)
+    * [Mactan Cebu Airport](https://mactancebuairport.com/)
+    * [Philippine Airlines](https://www.philippineairlines.com)
+    * [Cebu Pacific](https://www.cebupacificair.com/)
+    * [Air Asia](https://www.airasia.com/)
+    * [Cathay Pacific](https://www.cathaypacific.com)
+    * [Expedia](https://www.expedia.com)
+    * [OceanJet](http://www.oceanjet.net)
+    * [2Go](https://travel.2go.com.ph)
+    * [airbnb](https://www.airbnb.com/)
+    * [booking.com](https://www.booking.com/)
+    * [Facebook](https://www.facebook.com)
+    * [Instagram](https://www.instagram.com)
+    * [Pinterest](https://www.pinterest.com)
+    * [Twitter](https://www.twitter.com)
+    * [Youtube](https://www.pinterest.com)
 
 ## Acknowledgements
 
 * I want to thank my amazing mentor, Simen Daehlin, who motivated and pushed me to create a project that best resonates my passion and what I like. He's been very helpful and have shared his wealth of knowledge that makes me learn more. Thank you Simen!
+* I also want to thank the Code Institute community via Slack, as they've been very helpful in answering my questions and also serves as a source of information when I needed answers to help me solve my code. 
+
 
 ## Additional credits
+
+* My website inspiration came from the following sites: 
+    * [Love Captown](https://www.capetown.travel/)
+    * [It's More Fun in the Philippines](https://www.itsmorefuninthephilippines.com/)
+
+
 
 
