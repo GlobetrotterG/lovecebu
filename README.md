@@ -165,6 +165,10 @@ My wireframes were all created using [Balsamiq wireframes](https://balsamiq.com/
 
 ## 5. contact.html page
 
+### Navbar, Contact Us, and Footer
+* Similar to index.html
+* The only difference is the title of the contact box is "Get in touch with us!" instead of "Contact Us" 
+
 # Color theme 
 
 # Logo Design theme
