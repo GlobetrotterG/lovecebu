@@ -171,6 +171,7 @@ My wireframes were all created using [Balsamiq wireframes](https://balsamiq.com/
 
 # Color theme
 * Cebu is a tropical island, and has a very vibrant atmosphere, I came up with some vibrant and Fiesta colours that compliments the logo of Love Cebu! 
+* I used the site [Coolors](https://coolors.co/) to get colour inspiration for the site. 
 * Colours that were chosen were: 
   * #ffdab9 (Peach Puff) - Used for the body of the site and a highlight to the index.html Jumotron slogan "Cebu...Queen City of the South."
   * #e77728 (Bright Orange) - Used as a background colour for the Navbar, Footer, buttons, and Section separator on pages. It's also been used on some words on the Jumbotron or Intro texts.
@@ -258,11 +259,15 @@ My wireframes were all created using [Balsamiq wireframes](https://balsamiq.com/
     * [Pinterest](https://www.pinterest.com)
     * [Twitter](https://www.twitter.com)
     * [Youtube](https://www.pinterest.com)
+* For colour themes and identifying colour names, I used: 
+    * [coolors](https://coolors.co/)
+    * [Color Hexa](https://www.colorhexa.com/)
 
 ## Acknowledgements
 
 * I want to thank my amazing mentor, Simen Daehlin, who motivated and pushed me to create a project that best resonates my passion and what I like. He's been very helpful and have shared his wealth of knowledge that makes me learn more. Thank you Simen!
 * I also want to thank the Code Institute community via Slack, as they've been very helpful in answering my questions and also serves as a source of information when I needed answers to help me solve my code. 
+* This project is of course dedicated to my hometown Cebu! My love and inspiration for this island is the reason why I created this project! 
 
 
 ## Additional credits
