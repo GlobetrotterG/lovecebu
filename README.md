@@ -273,7 +273,7 @@ My wireframes were all created using [Balsamiq wireframes](https://balsamiq.com/
 ## Additional credits
 
 * My website inspiration came from the following sites: 
-    * [Love Captown](https://www.capetown.travel/)
+    * [Love Capetown](https://www.capetown.travel/)
     * [It's More Fun in the Philippines](https://www.itsmorefuninthephilippines.com/)
 
 
