@@ -114,7 +114,7 @@ My wireframes were all created using [Balsamiq wireframes](https://balsamiq.com/
 * Similar to index.html
 
 ### Jumbotron
-* The Section title "Experience Cebu" added 
+* The Section title "Experience Cebu" added and background photo similar to index.html. Text colour is default to black.
 * A YouTube video added with a Sinulog festival theme. This is a Mardi-Gras festivity that happens on the 3rd Sunday of January in honour of the patron Saint of Cebu.
 
 ### Article Title
@@ -122,6 +122,34 @@ My wireframes were all created using [Balsamiq wireframes](https://balsamiq.com/
 * The article comes with photos and descriptions.
 
 ## 3. ready-to-visit.html page
+
+### Navbar, Contact Us, and Footer
+* Similar to index.html
+
+### Jumbotron
+
+* The Section title "Ready to Visit?" added and background photo similar to index.html. Text colour similar to Experience Cebu page.
+
+### Article Title
+
+* Article title is "Information and Advice" in Three colours that matches the ambiance of the sites theme. 
+* An interactive Google map image of Cebu is embedded below the article title. The html code was supplied by https://www.embedgooglemap.net/.
+
+### The page 
+
+* The page contains 12 different sections: 
+ * Currency
+ * Languages Spoken
+ * Season
+ * Getting Around Cebu
+ * The Locals
+ * Shopping
+ * Phone Network
+ * Visa Entry
+ * Getting to Cebu
+ * Airport
+ * Where to stay?
+ * Learn to Cebuano
 
 ## 4. about.html page
 
