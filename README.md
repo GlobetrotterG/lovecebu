@@ -79,7 +79,7 @@ My wireframes were all created using [Balsamiq wireframes](https://balsamiq.com/
 ### Navbar
 * 5 different page sections were created for users ease of navigating the site. 
 * Navbar are subdivided in Home, Experience Cebu, Ready to Visit?, About, and Contact pages.
-* On the left, I placed the Love Cebu! logo and on the right, I was able to use a live weather widget which was taken from Hotelmix.com (Lite Weather customization 130 x 90px).
+* On the left, I placed the Love Cebu! logo and on the right, I was able to use a live weather widget which was taken from [Hotelmix.com](https://hotelmix.co.uk/?page=weather_widget_customize&type=30&cityID=18114&cmetric=1&gparams=30) (Lite Weather customization 130 x 90px).
 
 ### Jumbotron
 * A background photo of a colourful festivity called Sinulog was added and taken from photographer Ralph Llanos to add to the ambiance of the page.
@@ -169,7 +169,19 @@ My wireframes were all created using [Balsamiq wireframes](https://balsamiq.com/
 * Similar to index.html
 * The only difference is the title of the contact box is "Get in touch with us!" instead of "Contact Us" 
 
-# Color theme 
+# Color theme
+* Cebu is a tropical island, and has a very vibrant atmosphere, I came up with some vibrant and Fiesta colours that compliments the logo of Love Cebu! 
+* Colours that were chosen were: 
+  * #ffdab9 (Peach Puff) - Used for the body of the site and a highlight to the index.html Jumotron slogan "Cebu...Queen City of the South."
+  * #e77728 (Bright Orange) - Used as a background colour for the Navbar, Footer, buttons, and Section separator on pages. It's also been used on some words on the Jumbotron or Intro texts.
+  * #f9b81d (Vivid Orange) - Used in Contact form, when you over the Nav list, buttons and also used on some words on the Jumbotron slogan.
+  * #ff1616 (Vivid Red) - Used on some words on every page, except the Contact page. This is to blend with the "Love" word on the Love Cebu! logo which is the same colour. 
+  * #fff (White) - Used as a text colour for the Nav lists, Social media links on Footer, and on Section separator on the Home page.
+  * Black has also been used as a default colour text, especially on articles and on the Experience Cebu page. 
+
+# Font 
+* Initially, 2 colours were chosen for the site. Merriweather and Lato. But I decided for uniformity, I went for Merriweather. 
+
 
 # Logo Design theme
 
