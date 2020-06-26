@@ -103,8 +103,23 @@ My wireframes were all created using [Balsamiq wireframes](https://balsamiq.com/
 * Created in Yellow and White to colours to compliment the site and theme. 
 * Included Name, Country, Email and a section where users can write their message. 
 
+### Footer
+* Social media icons added (Facebook, Instagram, Pinterest, Twitter and YouTube)
+* Copyright added
+* Small logo of Love Cebu! also added
+
 ## 2. experience-cebu.html page
-* 
+
+### Navbar, Contact Us, and Footer
+* Similar to index.html
+
+### Jumbotron
+* The Section title "Experience Cebu" added 
+* A YouTube video added with a Sinulog festival theme. This is a Mardi-Gras festivity that happens on the 3rd Sunday of January in honour of the patron Saint of Cebu.
+
+### Article Title
+* An article title "Top Ten Things to do When in Cebu" is added to highlight the highlight of the page.
+* The article comes with photos and descriptions.
 
 ## 3. ready-to-visit.html page
 
