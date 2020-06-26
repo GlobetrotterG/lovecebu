@@ -138,18 +138,18 @@ My wireframes were all created using [Balsamiq wireframes](https://balsamiq.com/
 ### The page 
 
 * The page contains 12 different sections: 
- * Currency
- * Languages Spoken
- * Season
- * Getting Around Cebu
- * The Locals
- * Shopping
- * Phone Network
- * Visa Entry
- * Getting to Cebu
- * Airport
- * Where to stay?
- * Learn to Cebuano
+    * Currency
+    * Languages Spoken
+    * Season
+    * Getting Around Cebu
+    * The Locals
+    * Shopping
+    * Phone Network
+    * Visa Entry
+     * Getting to Cebu
+     * Airport
+     * Where to stay?
+     * Learn to Cebuano
 
 ## 4. about.html page
 
@@ -184,21 +184,66 @@ My wireframes were all created using [Balsamiq wireframes](https://balsamiq.com/
 
 # Logo Design theme
 * Love Cebu! theme was chosen with the use of [Canva](https://www.canva.com/).
+* Font name: Luckiest Guy 
 * I chose the design because of the fun and personal theme it has. A Mango icon was added to the logo, which is a fruit that Cebu is known for.
 * These are the colour themes of the logo: 
- * Love - #ff1616
- * Cebu! - #ff914d
- * Brush stroke background - #ffdcba
- * Mango - had default colours of #47c098, #cb8456, #edaf1a, #f9b81d
+    * Love - #ff1616
+    * Cebu! - #ff914d
+    * Brush stroke background - #ffdcba
+    * Mango - had default colours of #47c098, #cb8456, #edaf1a, #f9b81d
 * The White background on the logo was removed using [remove.bg](https://www.remove.bg/).
 
-
 # Testing
+
+* Site was coded using a Dell XPS 13 laptop.
+* Mobile site version was tested using an iphone 7 Plus, Samsung Galaxy S10+, Google Pixel 3a XL phones. 
+* Tablet site version was tested on an ipad Air.
+* HTML code was tested using [W3C Markup Validation Service](https://validator.w3.org/)
+* CSS code was tested using [W3C CSS Markup Validation Service - Jigsaw](https://jigsaw.w3.org/css-validator/)
 
 
 # Credits
 
 ## Code
 
-# Acknowledgements
+* Coding this project was made possible through the Modules learned with the Code Institute.
+* Additional, in-depth learning and code knowledge to come up with a responsive site using HTML, CSS, and Bootstrap also came from the following sites: 
+    * [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+    * [W3 Schools](https://www.w3schools.com/)
+    * [MD Bootsrap](https://mdbootstrap.com/)
+    * [MDN Web Docs](https://developer.mozilla.org/en-US)
+    * [CSS Tricks](https://css-tricks.com/)
+
+* External codes were also used for the following: 
+    * Weather widget - provided by [Hotelmix.com](https://hotelmix.co.uk/?page=weather_widget_customize&type=30&cityID=18114&cmetric=1&gparams=30)
+    * Embedding a [Google Map](https://www.embedgooglemap.net/)
+
+## Photos and Videos
+
+* Home page / index.html video was provided by my brother, James Brian Hutchinson, who created a video of one his travels back home in Cebu. Thank you James! 
+* Experience page video was taken from [Queen City Cebu YouTube Channel](https://www.youtube.com/watch?v=ZCkNMYuszz0&t=1s)
+* Some photos were taken from the following (May or may have not been included in the Final execution of the site): 
+    * [Unsplash](https://unsplash.com/)
+    * [Pexels](https://www.pexels.com/)
+    * [Pixabay](https://pixabay.com/images/search/cebu/)
+    * For the Jumbotron photo, this was taken from [Cebu Finest site](https://cebufinest.com/sinulog-2020-mass-schedules-and-activities/), and photographer is Ralph Llanos.
+* Friends that were supportive and provided some of their Cebu photos: 
+    * Jeffrey Salas
+    * Rowena Matuguina
+    * Melojane Alfeche Cabahug
+    * Atty. Mark Anthony Gaviola
+    * Vhern Igoy
+    * Jessa M. Gelbolingo
+
+
+
+## Links
+
+
+## Acknowledgements
+
+* I want to thank my amazing mentor, Simen Daehlin, who motivated and pushed me to create a project that best resonates my passion and what I like. He's been very helpful and have shared his wealth of knowledge that makes me learn more. Thank you Simen!
+
+## Additional credits
+
 
