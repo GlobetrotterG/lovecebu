@@ -74,18 +74,47 @@ My wireframes were all created using [Balsamiq wireframes](https://balsamiq.com/
 
 # Features
 
-## index.html page 
+## 1. index.html page 
 
-## experience-cebu.html page
+### Navbar
+* 5 different page sections were created for users ease of navigating the site. 
+* Navbar are subdivided in Home, Experience Cebu, Ready to Visit?, About, and Contact pages.
+* On the left, I placed the Love Cebu! logo and on the right, I was able to use a live weather widget which was taken from Hotelmix.com (Lite Weather customization 130 x 90px).
 
-## ready-to-visit.html page
+### Jumbotron
+* A background photo of a colourful festivity called Sinulog was added and taken from photographer Ralph Llanos to add to the ambiance of the page.
+* A video of Cebu plays in the background for more visual engagement for the users.
+* A slogan is added  3 different colors that is relevant to the theme of the page with an opaque background that's the same colour as the body background.
 
-## about.html page
+### A Small Introduction Paragraph
+* A small introduction with the words "It's More Fun in Cebu!" (Inspired by the famous slogan "It's More Fun in the Philippines" campaign by the Philippine Department of Tourism) to set the tone.
 
-## contact.html page
+### Feature section
+* Created as a teaser and an option to click the "Experience Cebu" or "Ready to Visit?."
+* The "Experience Cebu" photo was taken from Kawasan Falls in Cebu.
+* The "Ready to Visit?" photo was taken onboard a Philippine Airlines flight I took in February 2020 with their Inflight Magazine. 
 
+### Photographs of Cebu
+* An Instagram logo was added and taken from [freepnglogos.com](https://www.freepnglogos.com/images/instagram-logo-png-2428.html).
+* On the Wireframe, it was styled with 10 pictures for conceptual purposes, but I only executed 8 photos on the website.
+* The logo and the photos are clickable and directs users to the Instagram page.
+
+### Contact Us
+* Created in Yellow and White to colours to compliment the site and theme. 
+* Included Name, Country, Email and a section where users can write their message. 
+
+## 2. experience-cebu.html page
+* 
+
+## 3. ready-to-visit.html page
+
+## 4. about.html page
+
+## 5. contact.html page
 
 # Color theme 
+
+# Logo Design theme
 
 # Testing
 
