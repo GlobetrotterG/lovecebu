@@ -161,6 +161,11 @@ div .footer-logo a img {
 .feature-button {
     color: #fff;
     background-color: #e77728;
+    margin-top: 25px;
+}
+
+.feature-button1 {
+    margin-top: 0;
 }
 
 .feature-button:hover {
@@ -180,11 +185,44 @@ div .footer-logo a img {
    object-position: center center;
 }
 
-.feature-text2 {
-    margin: 20px 0;
+
+.feature-margin {
+    padding-top: 10px;
+    margin-top: 15px;
 }
 
+.about-me { 
+    width: 40%;
+    height: 30%;
+}
 
+#center-form {
+  border-radius: 15px;
+  box-shadow: 5px 5px #fff;
+  background-color: #f9b81d;
+  padding: 25px;
+}
+
+.h3-text {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.cebuano-box {
+    border-style: double;
+    font-weight: bold;
+    border-color: #f9b81d;
+    background-color: #ff1616;
+}
+
+.list-group-item {
+    background-color: #f9b81d;
+}
+
+.cebuano-box1 {
+    background-color: #ff1616;
+    opacity: 0.6;
+}
 
 
 
