@@ -59,6 +59,12 @@ body {
     margin-right: 50px;
 }
 
+.visit-intro {
+    font-size: 50px;
+    font-weight: bold;
+    margin: 0;
+}
+
 /*--------- Section text highlight ----------*/
 
   div .section-border{
@@ -219,10 +225,26 @@ div .footer-logo a img {
     background-color: #f9b81d;
 }
 
-.cebuano-box1 {
-    background-color: #ff1616;
-    opacity: 0.6;
+
+/*--------- CSS code from embedgooglemap.net ----------*/
+
+.mapouter {
+    position: relative;
+    text-align: center;
+    height: 338px;
+    width: 320px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
 }
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    height: 338px;
+    width: 320px;
+}
+
 
 
 
