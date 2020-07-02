@@ -199,6 +199,7 @@ My wireframes were all created using [Balsamiq wireframes](https://balsamiq.com/
 * Site was coded using a Dell XPS 13 laptop.
 * Mobile site version was tested using an iphone 7 Plus, Samsung Galaxy S10+, Google Pixel 3a XL phones. 
 * Tablet site version was tested on an ipad Air.
+* To test for website responsiveness, I also used Google Chrome DevTools.
 * HTML code was tested using [W3C Markup Validation Service](https://validator.w3.org/)
 * CSS code was tested using [W3C CSS Markup Validation Service - Jigsaw](https://jigsaw.w3.org/css-validator/)
 

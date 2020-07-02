@@ -201,6 +201,24 @@ div .footer-logo a img {
 
 }
 
+.photo-size1 {
+    width: 70%;
+    height: auto;
+}
+
+.photo-size2 {
+    width: 100%;
+    height: 100%;
+}
+
+.photo1 {
+    margin: 40px 0 20px;
+}
+
+.cebu-paragraph {
+    margin: 40px 0;
+}
+
 /*--------- About me photo ----------*/
 
 .about-me { 
@@ -248,7 +266,6 @@ div .footer-logo a img {
     height: 338px;
     width: 320px;
 }
-
 
 
 
