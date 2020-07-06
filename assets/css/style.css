@@ -1,7 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700;900&display=swap');
 
 body {
     font-family: "Merriweather", sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
     background: #ffdab9;
     text-align: center;
     margin: 0;
@@ -15,7 +17,7 @@ body {
 }
 
 .navbar-nav li a {
-    margin: 0 30px;
+    margin: 0 3rem;
     color: #fff;
     letter-spacing: 1px;  
 }
@@ -29,8 +31,8 @@ body {
 .cebu-logo {
     width: 300px;
     height: 100px;
-    padding: 0 10px 10px;
-    margin: 0 5px;
+    padding: 0 1rem 1rem;
+    margin: 0 0.5rem;
 }
 
 /*--------- Jumbotron Header ----------*/
@@ -41,10 +43,10 @@ body {
 }
 
 .welcome-to-cebu {
-    margin: 20px 0;
-    font-size: 4rem;
+    margin: 1.5rem 0;
+    font-size: 3.5rem;
     font-style: oblique;
-    font-weight: bolder;
+    font-weight: 900;
     background-color: #ffdab9;
     opacity: 0.9;   
 }
@@ -53,24 +55,23 @@ body {
 
 .mabuhay-title {
     
-    font-size: 50px;
-    font-weight: bold;
-    margin-left: 50px;
-    margin-right: 50px;
+    font-size: 3rem;
+    font-weight: 700;
+    margin-left: 2.5rem 0;
 }
 
 .visit-intro {
-    font-size: 50px;
-    font-weight: bold;
+    font-size: 3rem;
+    font-weight: 700;
     margin: 0;
 }
 
 /*--------- Bordering / Feature Section ----------*/
 
 .feature-border {
-   padding:3px;
-   margin: 15px 0;
-   border:1px solid #e77728;
+   padding:0.25rem;
+   margin: 1.75rem 0;
+   border:0.25rem solid #e77728;
    background-color:#f9b81d;
    width:  75%;
    height: 75%;
@@ -79,24 +80,24 @@ body {
 }
 
 .feature-margin {
-    padding-top: 10px;
-    margin-top: 15px;
+    padding-top: 1rem;
+    margin-top: 1.5rem;
 }
 
 .h3-text {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 0.90rem;
+    margin-bottom: 1.5rem;
 }
 
 /*--------- Section text highlight ----------*/
 
   div .section-border{
-  border: 20px;
-  padding: 20px;
+  border: 2rem;
+  padding: 2rem;
   background: #e77728;
   background-clip: padding-box;
-  font-size: 2rem;
-  font-weight: bolder;
+  font-size: 1.75rem;
+  font-weight: 900;
   color: #fff;
 }
 
@@ -105,21 +106,16 @@ body {
 #gallery-pics img{
     width: 100%;
     height: 100%;
-    padding: 30px 20px;
+    padding: 3rem 2rem;
     object-fit: cover;
     object-position: center center;
-    margin: 10px 10px;
+    margin: 1rem 1rem;
   }
 
-.instagram-link i {
-    height: 80rem;
-    width: 80rem;
-}
-
 .ig-logo {
-    margin: 1rem 0;
-    height: 100px;
-    width: 100px;
+    margin: 1.5rem 0;
+    height: 80px;
+    width: 80px;
 }
 
 /*--------- Contact Form ----------*/
@@ -133,7 +129,7 @@ body {
         min-height: 250px;
         margin: 0 auto;
         max-width: 60%;
-        padding-bottom: 20px;
+        padding-bottom: 2rem;
         background: #f9b81d;
     }
 }
@@ -159,7 +155,7 @@ body {
 div .footer-logo a img {
     width: 80px;
     height: auto;
-    margin-bottom: 5px;   
+    margin-bottom: 0.5rem;   
 }
 
 /*--------- Miscellaneous Color ----------*/
@@ -181,7 +177,7 @@ div .footer-logo a img {
 .feature-button {
     color: #fff;
     background-color: #f9b81d;
-    margin-top: 25px;
+    margin-top: 2.5rem;
 }
 
 .feature-button1 {
@@ -194,7 +190,7 @@ div .footer-logo a img {
 
 .contact-button {
     background-color: #fff;
-    margin-top: 25px;
+    margin-top: 2.5rem;
 }
 
 /*--------- Experience Cebu text highlight ----------*/
@@ -217,11 +213,11 @@ div .footer-logo a img {
 }
 
 .photo1 {
-    margin: 40px 0 20px;
+    margin: 4rem 0 2rem;
 }
 
 .cebu-paragraph {
-    margin: 40px 0;
+    margin: 2.5rem 0;
 }
 
 /*--------- About me photo ----------*/
@@ -234,17 +230,17 @@ div .footer-logo a img {
 /*--------- Contact form ----------*/
 
 #center-form {
-  border-radius: 15px;
-  box-shadow: 5px 5px #fff;
+  border-radius: 1.5rem;
+  box-shadow: 0.5rem 0.5rem #fff;
   background-color: #f9b81d;
-  padding: 25px;
+  padding: 2.5rem;
 }
 
 /*--------- Ready to visit section ----------*/
 
 .cebuano-box {
     border-style: double;
-    font-weight: bold;
+    font-weight: 700;
     border-color: #f9b81d;
     background-color: #ff1616;
 }
@@ -260,8 +256,8 @@ div .footer-logo a img {
     position: relative;
     text-align: center;
     max-width: 100%;
-    margin-bottom: 20px;
-    margin-top: 20px;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
 }
 
 .gmap_canvas {
