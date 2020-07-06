@@ -10,23 +10,22 @@ body {
     padding: 0;
 }
 
-/*--------- Navbar section ----------*/
+/* Navbar section */
 
 .navbar {
     background-color: #e77728;
 }
 
-.navbar-nav li a {
-    margin: 0 3rem;
+div .cebu-nav {
+    margin: 0 2.5rem;
     color: #fff;
-    letter-spacing: 1px;  
 }
 
-.navbar-nav li a:hover {
+.cebu-nav:hover {
     background-color: #f9b81d;
 }
 
-/*--------- Cebu Logo ----------*/
+/* Cebu Logo */
 
 .cebu-logo {
     width: 300px;
@@ -35,7 +34,7 @@ body {
     margin: 0 0.5rem;
 }
 
-/*--------- Jumbotron Header ----------*/
+/* Jumbotron Header */
 
 .jumbotron {
     background-image: url("../images/sinulogpic.jpg");
@@ -51,7 +50,7 @@ body {
     opacity: 0.9;   
 }
 
-/*--------- Intro section text ----------*/
+/* Intro section text */
 
 .mabuhay-title {
     
@@ -66,7 +65,7 @@ body {
     margin: 0;
 }
 
-/*--------- Bordering / Feature Section ----------*/
+/* Bordering / Feature Section */
 
 .feature-border {
    padding:0.25rem;
@@ -89,7 +88,7 @@ body {
     margin-bottom: 1.5rem;
 }
 
-/*--------- Section text highlight ----------*/
+/* Section text highlight */
 
   div .section-border{
   border: 2rem;
@@ -101,7 +100,7 @@ body {
   color: #fff;
 }
 
-/*--------- Photos of Cebu / Gallery pics ----------*/
+/* Photos of Cebu / Gallery pics */
 
 #gallery-pics img{
     width: 100%;
@@ -118,7 +117,7 @@ body {
     width: 80px;
 }
 
-/*--------- Contact Form ----------*/
+/* Contact Form */
   
 .margin-adjustment {
     margin: 5rem 0;
@@ -134,17 +133,17 @@ body {
     }
 }
 
-/*--------- Footer ----------*/
+/* Footer */
 
 .social-links {
     background-color: #e77728; 
 }
 
-.social-links li a {
+div .cebu-footer {
     color: #fff;
 }
 
-.social-links li a:hover {
+.cebu-footer:hover {
    background-color: #f9b81d;
 }
 
@@ -158,7 +157,7 @@ div .footer-logo a img {
     margin-bottom: 0.5rem;   
 }
 
-/*--------- Miscellaneous Color ----------*/
+/* Miscellaneous Color */
 
 .co1 { 
     color: #f9b81d;
@@ -172,7 +171,7 @@ div .footer-logo a img {
     color: #ff1616;
 }
 
-/*--------- Button styling ----------*/
+/* Button styling */
 
 .feature-button {
     color: #fff;
@@ -193,7 +192,7 @@ div .footer-logo a img {
     margin-top: 2.5rem;
 }
 
-/*--------- Experience Cebu text highlight ----------*/
+/* Experience Cebu text highlight */
 
  .experience-list {
   margin-top: 4rem;
@@ -220,14 +219,14 @@ div .footer-logo a img {
     margin: 2.5rem 0;
 }
 
-/*--------- About me photo ----------*/
+/* About me photo */
 
 .about-me { 
     width: 40%;
     height: 30%;
 }
 
-/*--------- Contact form ----------*/
+/* Contact form */
 
 #center-form {
   border-radius: 1.5rem;
@@ -236,7 +235,7 @@ div .footer-logo a img {
   padding: 2.5rem;
 }
 
-/*--------- Ready to visit section ----------*/
+/* Ready to visit section */
 
 .cebuano-box {
     border-style: double;
@@ -250,7 +249,7 @@ div .footer-logo a img {
 }
 
 
-/*--------- CSS code from embedgooglemap.net ----------*/
+/* CSS code from embedgooglemap.net */
 
 .mapouter {
     position: relative;
@@ -260,7 +259,7 @@ div .footer-logo a img {
     margin-top: 2rem;
 }
 
-.gmap_canvas {
+.gmap-canvas {
     overflow: hidden;
     background: none !important;
 }
