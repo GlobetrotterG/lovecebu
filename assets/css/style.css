@@ -180,7 +180,7 @@ div .footer-logo a img {
 
 .feature-button {
     color: #fff;
-    background-color: #e77728;
+    background-color: #f9b81d;
     margin-top: 25px;
 }
 
@@ -188,8 +188,13 @@ div .footer-logo a img {
     margin-top: 0;
 }
 
-.feature-button:hover {
-    background-color: #f9b81d;
+.feature-button,.contact-button:hover {
+    background-color: #e77728;
+}
+
+.contact-button {
+    background-color: #fff;
+    margin-top: 25px;
 }
 
 /*--------- Experience Cebu text highlight ----------*/
@@ -254,8 +259,7 @@ div .footer-logo a img {
 .mapouter {
     position: relative;
     text-align: center;
-    height: 338px;
-    width: 320px;
+    max-width: 100%;
     margin-bottom: 20px;
     margin-top: 20px;
 }
@@ -263,8 +267,6 @@ div .footer-logo a img {
 .gmap_canvas {
     overflow: hidden;
     background: none !important;
-    height: 338px;
-    width: 320px;
 }
 
 
