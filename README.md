@@ -20,7 +20,7 @@ As we say in the Philippines, **_"Mabuhay!" ("Welcome!")._**
 
 ## 1) Goals of the Project (Love Cebu! wants to:)
 
-I chose Love Cebu!, as the name of my website and for this project, is because I got the inspiration from Cape Town, South Africa’s travel website called [“Love Capetown,”](https://www.capetown.travel/).
+I chose Love Cebu!, as the name of my website and for this project, is because I got the inspiration from Cape Town, South Africa’s travel website called **[“Love Capetown,”](https://www.capetown.travel/).**
 
 But aside from that, I want people to know that there’s a reason to Love Cebu! Through this website. Furthermore, Love Cebu! wants to: 
 
@@ -72,68 +72,68 @@ My wireframes were all created using [Balsamiq wireframes](https://balsamiq.com/
 
 ### To view my wireframes, [click here.](https://github.com/GlobetrotterG/lovecebu/tree/master/wireframes)
 
+**## Update**
+
+Updated wireframes were created to match the final layout of the website which can be viewed here: [Updated Wireframes](https://github.com/GlobetrotterG/lovecebu/tree/master/updated%20wireframes)
+
 # Features
 
-## 1. index.html page 
+## 1. Home/Index page 
 
 ### Navbar
 * 5 different page sections were created for users ease of navigating the site. 
 * Navbar are subdivided in Home, Experience Cebu, Ready to Visit?, About, and Contact pages.
-* On the left, I placed the Love Cebu! logo and on the right, I was able to use a live weather widget which was taken from [Hotelmix.com](https://hotelmix.co.uk/?page=weather_widget_customize&type=30&cityID=18114&cmetric=1&gparams=30) (Lite Weather customization 130 x 90px).
+* On the left, I placed the Love Cebu! 
 
 ### Jumbotron
-* A background photo of a colourful festivity called Sinulog was added and taken from photographer Ralph Llanos to add to the ambiance of the page.
-* A video of Cebu plays in the background for more visual engagement for the users.
-* A slogan is added  3 different colors that is relevant to the theme of the page with an opaque background that's the same colour as the body background.
+* A background photo of a colourful festivity called Sinulog was added and taken from photographer Ralph Llanos via the [cebufinest site](https://cebufinest.com/sinulog-2020-mass-schedules-and-activities/). to add to the ambiance of the page.
+* A video of Cebu plays in the background for more visual engagement for the users. This can be controlled by the user.
+* A slogan is added with 3 different colors that is relevant to the theme of the page with an opaque background that's the same colour as the body background.
 
 ### A Small Introduction Paragraph
-* A small introduction with the words "It's More Fun in Cebu!" (Inspired by the famous slogan "It's More Fun in the Philippines" campaign by the Philippine Department of Tourism) to set the tone.
+* A small introduction with the words "It's More Fun in Cebu!" (Inspired by the famous slogan **_"It's More Fun in the Philippines"_** campaign by the Philippine Department of Tourism) to set the tone.
 
 ### Feature section
-* Created as a teaser and an option to click the "Experience Cebu" or "Ready to Visit?."
-* The "Experience Cebu" photo was taken from Kawasan Falls in Cebu.
-* The "Ready to Visit?" photo was taken onboard a Philippine Airlines flight I took in February 2020 with their Inflight Magazine. 
+* Created as a teaser and an option to click the **"Experience Cebu"** or **"Ready to Visit?."**
+* The **"Experience Cebu"** photo used is the Kawasan Falls in Badian,Cebu.
+* The **"Ready to Visit?"** photo was taken onboard my Philippine Airlines flight in February 2020 with their Inflight Magazine. 
 
 ### Photographs of Cebu
-* An Instagram logo was added and taken from [freepnglogos.com](https://www.freepnglogos.com/images/instagram-logo-png-2428.html).
-* On the Wireframe, it was styled with 10 pictures for conceptual purposes, but I only executed 8 photos on the website.
-* The logo and the photos are clickable and directs users to the Instagram page.
-
-### Contact Us
-* Created in Yellow and White to colours to compliment the site and theme. 
-* Included Name, Country, Email and a section where users can write their message. 
+* An Instagram logo was added and taken from [freepnglogos](https://www.freepnglogos.com/images/instagram-logo-png-2428.html).
+* It has 8 photos of Cebu that are clickable and redirects users to the Instagram page.
+* The Instagram logo is also clickable and redirects users to the Instagram page.
 
 ### Footer
 * Social media icons added (Facebook, Instagram, Pinterest, Twitter and YouTube)
 * Copyright added
 * Small logo of Love Cebu! also added
 
-## 2. experience-cebu.html page
+## 2. Experience Cebu page
 
-### Navbar, Contact Us, and Footer
-* Similar to index.html
+### Navbar and Footer
+* Similar to Index/Home page
 
 ### Jumbotron
-* The Section title "Experience Cebu" added and background photo similar to index.html. Text colour is default to black.
+* The Section title **"Experience Cebu"** added and background photo similar to home page. Text colour is default to black.
 * A YouTube video added with a Sinulog festival theme. This is a Mardi-Gras festivity that happens on the 3rd Sunday of January in honour of the patron Saint of Cebu.
 
 ### Article Title
-* An article title "Top Ten Things to do When in Cebu" is added to highlight the highlight of the page.
+* An article title **"Top Ten Things to do When in Cebu"** is added to highlight the highlight of the page.
 * The article comes with photos and descriptions.
 
-## 3. ready-to-visit.html page
+## 3. Ready to Visit? page
 
-### Navbar, Contact Us, and Footer
-* Similar to index.html
+### Navbar and Footer
+* Similar to Home/Index page
 
 ### Jumbotron
 
-* The Section title "Ready to Visit?" added and background photo similar to index.html. Text colour similar to Experience Cebu page.
+* The Section title **"Ready to Visit?"** added and background photo similar to home page. Text colour similar to Experience Cebu page.
 
 ### Article Title
 
-* Article title is "Information and Advice" in Three colours that matches the ambiance of the sites theme. 
-* An interactive Google map image of Cebu is embedded below the article title. The html code was supplied by https://www.embedgooglemap.net/.
+* Article title is **"Information and Advice"** in Three colours that matches the ambiance of the sites theme. 
+* An interactive Google map image of Cebu is embedded below the article title. The html code was supplied by https://www.embedgooglemap.net/. As some of the code was inline styled in HTML, I had to transfer them to CSS to be keep it uniformed and consistent.
 
 ### The page 
 
@@ -146,37 +146,36 @@ My wireframes were all created using [Balsamiq wireframes](https://balsamiq.com/
     * Shopping
     * Phone Network
     * Visa Entry
-     * Getting to Cebu
-     * Airport
-     * Where to stay?
-     * Learn to Cebuano
+    * Getting to Cebu
+    * Airport
+    * Where to stay?
+    * Learn Cebuano
 
-## 4. about.html page
+## 4. About page
 
-### Navbar, Contact Us, and Footer
-* Similar to index.html
+### Navbar and Footer
+* Similar to Index/Home page
 
 ### Jumbotron
 
-* The Section title "About Love Cebu" added and background photo similar to index.html. Text colour similar to Experience Cebu page.
+* The Section title **"About Love Cebu"** added and background photo similar to index.html. Text colour similar to Experience Cebu page.
 
 ### Page content
- * Has a Intro title "Who We Are" and an article about the person behind Love Cebu! site with my photo below the article. 
+ * Has a Intro title **"Who We Are"** and an article about the person behind Love Cebu! site with my photo below the article. 
 
-## 5. contact.html page
+## 5. Contact page
 
-### Navbar, Contact Us, and Footer
-* Similar to index.html
-* The only difference is the title of the contact box is "Get in touch with us!" instead of "Contact Us" 
+### Navbar and Footer
+* Similar to Home/Index page
 
 # Color theme
 * Cebu is a tropical island, and has a very vibrant atmosphere, I came up with some vibrant and Fiesta colours that compliments the logo of Love Cebu! 
 * I used the site [Coolors](https://coolors.co/) to get colour inspiration for the site. 
 * Colours that were chosen were: 
-  * #ffdab9 (Peach Puff) - Used for the body of the site and a highlight to the index.html Jumotron slogan "Cebu...Queen City of the South."
+  * #ffdab9 (Peach Puff) - Used for the body of the site and a highlight to the index.html Jumotron slogan **"Cebu...Queen City of the South."**
   * #e77728 (Bright Orange) - Used as a background colour for the Navbar, Footer, buttons, and Section separator on pages. It's also been used on some words on the Jumbotron or Intro texts.
   * #f9b81d (Vivid Orange) - Used in Contact form, when you over the Nav list, buttons and also used on some words on the Jumbotron slogan.
-  * #ff1616 (Vivid Red) - Used on some words on every page, except the Contact page. This is to blend with the "Love" word on the Love Cebu! logo which is the same colour. 
+  * #ff1616 (Vivid Red) - Used on some words on every page, except the Contact page. This is to blend with the **"Love"** word on the Love Cebu! logo which is the same colour. 
   * #fff (White) - Used as a text colour for the Nav lists, Social media links on Footer, and on Section separator on the Home page.
   * Black has also been used as a default colour text, especially on articles and on the Experience Cebu page. 
 
@@ -203,7 +202,6 @@ My wireframes were all created using [Balsamiq wireframes](https://balsamiq.com/
 * HTML code was tested using [W3C Markup Validation Service](https://validator.w3.org/)
 * CSS code was tested using [W3C CSS Markup Validation Service - Jigsaw](https://jigsaw.w3.org/css-validator/)
 
-
 # Credits
 
 ## Code
@@ -218,12 +216,11 @@ My wireframes were all created using [Balsamiq wireframes](https://balsamiq.com/
 * When I'm unsure of something, I also look for similar questions on the [Stack Overflow forum](https://stackoverflow.com/)
 
 * External codes were also used for the following: 
-    * Weather widget - provided by [Hotelmix.com](https://hotelmix.co.uk/?page=weather_widget_customize&type=30&cityID=18114&cmetric=1&gparams=30)
     * Embedding a [Google Map](https://www.embedgooglemap.net/)
 
 ## Photos and Videos
 
-* Home page / index.html video was provided by my brother, James Brian Hutchinson, who created a video of one his travels back home in Cebu. Thank you James! 
+* Home page video was provided by my brother, James Brian Hutchinson, who created a video on one his travels back home in Cebu. Thank you James! 
 * Experience page video was taken from [Queen City Cebu YouTube Channel](https://www.youtube.com/watch?v=ZCkNMYuszz0&t=1s)
 * Some photos were taken from the following (May or may have not been included in the Final execution of the site): 
     * [Unsplash](https://unsplash.com/)
@@ -237,10 +234,10 @@ My wireframes were all created using [Balsamiq wireframes](https://balsamiq.com/
     * Atty. Mark Anthony Gaviola
     * Vhern Igoy
     * Jessa M. Gelbolingo
-* Instagram Icon on the Photographs of Cebu section was taken from [freepnglogos.com](https://www.freepnglogos.com/images/instagram-logo-png-2428.html).
+* Instagram Icon on the Photographs of Cebu section was taken from [freepnglogos](https://www.freepnglogos.com/images/instagram-logo-png-2428.html).
 
 ## Links
- * Some of the information that I've used for the articles on this site was taken from [Wikipedia]
+ * Some of the information that I've used for the articles on this site was taken from [Wikipedia](https://www.wikipedia.org/)
  * Links that are used on this site: 
     * [Philippine Department of Foreign Affairs](https://consular.dfa.gov.ph/services/visa/visa-general-info)
     * [Globe Telecom](https://www.globe.com.ph/)
