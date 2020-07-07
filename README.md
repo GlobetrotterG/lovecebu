@@ -74,7 +74,13 @@ My wireframes were all created using [Balsamiq wireframes](https://balsamiq.com/
 
 **## Update**
 
-Updated wireframes were created to match the final layout of the website which can be viewed here: [Updated Wireframes](https://github.com/GlobetrotterG/lovecebu/tree/master/updated%20wireframes)
+Updated wireframes were created to match the final layout of the website which can be viewed here: [Updated Wireframes](https://github.com/GlobetrotterG/lovecebu/tree/master/updatedwireframes)
+
+Reasons why I had to update the wireframes: 
+* I removed the weather widget app as it wasn't responsive to how I wanted it positioned when testing it using tablet and mobile.
+* Contact forms removed on the Home, Experience Cebu, Ready to Visit and About pages and kept it on the Contact page as it felt redundant. 
+* Updated the footer to get the copyright, social media logos and brand logo to be centered. 
+* As I had some ideas changed on the Final execution of the website on the Experience Cebu and Ready to Visit page, I wanted my Wireframe to mirror how it should look like to the website I created. 
 
 # Features
 
