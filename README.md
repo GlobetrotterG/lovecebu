@@ -20,7 +20,7 @@ As we say in the Philippines, **_"Mabuhay!" ("Welcome!")._**
 
 ## 1) Goals of the Project (Love Cebu! wants to:)
 
-I chose Love Cebu!, as the name of my website and for this project, is because I got the inspiration from Cape Town, South Africa’s travel website called **[“Love Capetown,”](https://www.capetown.travel/).**
+I chose Love Cebu!, as the name of my website and for this project, is because I got the inspiration from Cape Town, South Africa’s travel website called [“Love Capetown,”](https://www.capetown.travel/).
 
 But aside from that, I want people to know that there’s a reason to Love Cebu! Through this website. Furthermore, Love Cebu! wants to: 
 
@@ -72,7 +72,7 @@ My wireframes were all created using [Balsamiq wireframes](https://balsamiq.com/
 
 ### To view my wireframes, [click here.](https://github.com/GlobetrotterG/lovecebu/tree/master/wireframes)
 
-**## Update**
+## **Update**
 
 Updated wireframes were created to match the final layout of the website which can be viewed here: [Updated Wireframes](https://github.com/GlobetrotterG/lovecebu/tree/master/updatedwireframes)
 
@@ -198,6 +198,36 @@ Reasons why I had to update the wireframes:
     * Brush stroke background - #ffdcba
     * Mango - had default colours of #47c098, #cb8456, #edaf1a, #f9b81d
 * The White background on the logo was removed using [remove.bg](https://www.remove.bg/).
+
+# Deployment
+
+Love Cebu! was developed on GitPod, using git and GitHub to host the repository.
+
+When deploying Love Cebu! using GitHub Pages, the following steps were made: 
+
+* Opened up **GitHub** in the browser.
+* Signed in using username and password. 
+* Selected my **repositories.**
+* Navigated to **'/GlobetrotterG/lovecebu'**.
+* In the top navigation clicked **'settings'**.
+* Scrolled down to the **GitHub Pages** area.
+* Selected **'Master Branch'** from the **'Source'** dropdown menu.
+* Clicked to confirm my selection. 
+* Love Cebu! is now live on GitHub pages.
+
+## Running Love Cebu! locally
+
+Cloning Love Cebu! from GitHub: 
+
+* Navigate to **'/GlobetrotterG/lovecebu'**.
+* Click the green **'Clone or Download'** button.
+* Copy the url in the dropdown box. 
+* Using your favourite **IDE,** open up your preferred **terminal**. 
+* Navigate to your desired file location. 
+* Copy the following **code** and input it into your terminal to clone Love Cebu! 
+
+**git clone: [https://github.com/GlobetrotterG/lovecebu.git](https://github.com/GlobetrotterG/lovecebu.git)**
+
 
 # Testing
 
