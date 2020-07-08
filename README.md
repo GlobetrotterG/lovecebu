@@ -37,7 +37,7 @@ As we say in the Philippines, **_"Mabuhay!" ("Welcome!")._**
     + [Navbar and Footer](#navbar-and-footer)
     + [Jumbotron](#jumbotron-1)
     + [Article Title](#article-title)
-  * [Ready to Visit? page](#ready-to-visit--page)
+  * [Ready to Visit page](#ready-to-visit-page)
     + [Navbar and Footer](#navbar-and-footer-1)
     + [Jumbotron](#jumbotron-2)
     + [Article Title](#article-title-1)
@@ -52,7 +52,7 @@ As we say in the Philippines, **_"Mabuhay!" ("Welcome!")._**
 - [Font](#font)
 - [Logo Design theme](#logo-design-theme)
 - [Deployment](#deployment)
-  * [Cloning Love Cebu! from GitHub](#cloning-love-cebu--from-github)
+  * [Cloning Love Cebu from GitHub](#cloning-love-cebu-from-github)
 - [Testing](#testing)
   * [Weather widget](#weather-widget)
   * [Embed Google Map](#embed-google-map)
@@ -180,7 +180,7 @@ Reasons why I had to update the wireframes:
 * An article title **"Top Ten Things to do When in Cebu"** is added to highlight the highlight of the page.
 * The article comes with photos and descriptions.
 
-## Ready to Visit? page
+## Ready to Visit page
 
 ### Navbar and Footer
 * Similar to Home page
@@ -268,7 +268,7 @@ When deploying Love Cebu! using GitHub Pages, the following steps were made:
 * Clicked to confirm my selection. 
 * Love Cebu! is now live on GitHub pages.
 
-## Cloning Love Cebu! from GitHub
+## Cloning Love Cebu from GitHub
 
 * Navigate to **'/GlobetrotterG/lovecebu'**.
 * Click the green **'Clone or Download'** button.
