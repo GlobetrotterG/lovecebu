@@ -238,6 +238,10 @@ div .footer-logo a img {
 
 /* Ready to visit section */
 
+.small-margin {
+    margin:1.5rem 0;
+}
+
 .cebuano-box {
     border-style: double;
     font-weight: 700;
