@@ -18,42 +18,41 @@ As we say in the Philippines, **_"Mabuhay!" ("Welcome!")._**
 # Table of Contents:
 
 - [UX](#ux)
-  * [1) Goals of the Project](#1--goals-of-the-project)
-  * [2) As the site owner, what do we expect from Love Cebu! Website?](#2--as-the-site-owner--what-do-we-expect-from-love-cebu--website-)
-  * [3) Love Cebu! Users require:](#3--love-cebu--users-require-)
-  * [4) Love Cebu! Users expect:](#4--love-cebu--users-expect-)
-  * [5) User Stories:](#5--user-stories-)
+  * [Project Goals](#project-goals)
+  * [Website Expectations](#website-expectations)
+  * [User Requirements](#user-requirements)
+  * [Users Expectations](#users-expectations)
+  * [User Stories](#user-stories)
 - [Wireframes](#wireframes)
   * [Update on Wireframes](#update-on-wireframes)
 - [Features](#features)
-  * [1. Home/Index page](#1-home-index-page)
+  * [Home page](#home-page)
     + [Navbar](#navbar)
     + [Jumbotron](#jumbotron)
     + [A Small Introduction Paragraph](#a-small-introduction-paragraph)
     + [Feature section](#feature-section)
     + [Photographs of Cebu](#photographs-of-cebu)
     + [Footer](#footer)
-  - [2. Experience Cebu page](#2-experience-cebu-page)
+  * [Experience Cebu page](#experience-cebu-page)
     + [Navbar and Footer](#navbar-and-footer)
     + [Jumbotron](#jumbotron-1)
     + [Article Title](#article-title)
-  - [3. Ready to Visit? page](#3-ready-to-visit--page)
+  * [Ready to Visit? page](#ready-to-visit--page)
     + [Navbar and Footer](#navbar-and-footer-1)
     + [Jumbotron](#jumbotron-2)
     + [Article Title](#article-title-1)
     + [The page contents](#the-page-contents)
-  * [4. About page](#4-about-page)
+  * [About page](#about-page)
     + [Navbar and Footer](#navbar-and-footer-2)
     + [Jumbotron](#jumbotron-3)
     + [Page content](#page-content)
-  * [5. Contact page](#5-contact-page)
+  * [Contact page](#contact-page)
     + [Navbar and Footer](#navbar-and-footer-3)
 - [Color theme](#color-theme)
 - [Font](#font)
 - [Logo Design theme](#logo-design-theme)
 - [Deployment](#deployment)
-  * [Running Love Cebu! locally](#running-love-cebu--locally)
-    + [Cloning Love Cebu! from GitHub:](#cloning-love-cebu--from-github-)
+  * [Cloning Love Cebu! from GitHub](#cloning-love-cebu--from-github)
 - [Testing](#testing)
   * [Weather widget](#weather-widget)
   * [Embed Google Map](#embed-google-map)
@@ -72,7 +71,7 @@ As we say in the Philippines, **_"Mabuhay!" ("Welcome!")._**
 
 # UX 
 
-## 1) Goals of the Project
+## Project Goals
 
 I chose Love Cebu!, as the name of my website and for this project, is because I got the inspiration from Cape Town, South Africa’s travel website called [“Love Capetown,”](https://www.capetown.travel/).
 
@@ -85,7 +84,7 @@ But aside from that, I want people to know that there’s a reason to Love Cebu!
 * To provide information to users in terms of activities and affordability that suits their needs of Cebu.
 * To attract both international and local users to visit Cebu through the information provided on the site. 
 
-## 2) As the site owner, what do we expect from Love Cebu! Website?
+## Website Expectations
 
 * Users are able to reach out to us through our Social media pages and leverage them to build a strong website presence to drive users to the site. 
 * Users are able to contact us via the contact link provided.
@@ -94,7 +93,7 @@ But aside from that, I want people to know that there’s a reason to Love Cebu!
 * To give a message that it is personally speaking to the user to invite them to Cebu. 
 * To encourage users to use our affiliate links without going through an external site to monetize the site. 
 
-## 3) Love Cebu! Users require: 
+## User Requirements
 
 * The site can be accessed on Desktop, Mobile, and Tablet.
 * A contact page to reach out to the site owner.
@@ -102,7 +101,7 @@ But aside from that, I want people to know that there’s a reason to Love Cebu!
 * The site to be consistently responsive. 
 
 
-## 4) Love Cebu! Users expect: 
+## Users Expectations
 
 * A site that has images and videos of Cebu. 
 * A link for when they would like to book travel arrangements to Cebu. 
@@ -110,7 +109,7 @@ But aside from that, I want people to know that there’s a reason to Love Cebu!
 * That the site is easy to navigate and will provide information that fits what they’re looking for. 
 * Advice on how to get to Cebu and the cost of getting there or expenses on activities, food, and drinks. 
 
-## 5) User Stories: 
+## User Stories 
 
 * As a user, I want to search for an alternative travel destination that is warm all year round.
 * As a user, I want to find information about the destination all in one site.
@@ -138,7 +137,7 @@ Reasons why I had to update the wireframes:
 
 # Features
 
-## 1. Home/Index page 
+## Home page 
 
 ### Navbar
 * 5 different page sections were created for users ease of navigating the site. 
@@ -168,10 +167,10 @@ Reasons why I had to update the wireframes:
 * Copyright added
 * Small logo of Love Cebu! also added
 
-## 2. Experience Cebu page
+## Experience Cebu page
 
 ### Navbar and Footer
-* Similar to Index/Home page
+* Similar to Home page
 
 ### Jumbotron
 * The Section title **"Experience Cebu"** added and background photo similar to home page. Text colour is default to black.
@@ -181,10 +180,10 @@ Reasons why I had to update the wireframes:
 * An article title **"Top Ten Things to do When in Cebu"** is added to highlight the highlight of the page.
 * The article comes with photos and descriptions.
 
-## 3. Ready to Visit? page
+## Ready to Visit? page
 
 ### Navbar and Footer
-* Similar to Home/Index page
+* Similar to Home page
 
 ### Jumbotron
 
@@ -211,10 +210,10 @@ Reasons why I had to update the wireframes:
     * Where to stay?
     * Learn Cebuano
 
-## 4. About page
+## About page
 
 ### Navbar and Footer
-* Similar to Index/Home page
+* Similar to Home page
 
 ### Jumbotron
 
@@ -223,10 +222,10 @@ Reasons why I had to update the wireframes:
 ### Page content
  * Has a Intro title **"Who We Are"** and an article about the person behind Love Cebu! site with my photo below the article. 
 
-## 5. Contact page
+## Contact page
 
 ### Navbar and Footer
-* Similar to Home/Index page
+* Similar to Home page
 
 # Color theme
 * Cebu is a tropical island, and has a very vibrant atmosphere, I came up with some vibrant and Fiesta colours that compliments the logo of Love Cebu! 
@@ -269,9 +268,7 @@ When deploying Love Cebu! using GitHub Pages, the following steps were made:
 * Clicked to confirm my selection. 
 * Love Cebu! is now live on GitHub pages.
 
-## Running Love Cebu! locally
-
-### Cloning Love Cebu! from GitHub: 
+## Cloning Love Cebu! from GitHub
 
 * Navigate to **'/GlobetrotterG/lovecebu'**.
 * Click the green **'Clone or Download'** button.
