@@ -143,7 +143,7 @@ Both my initial and updated wireframes can be viewed here: [Wireframes](https://
 * On the left, I placed the Love Cebu! 
 
 ### Jumbotron
-* A background photo of a colourful festivity called Sinulog was added and taken from photographer Ralph Llanos via the [Cebufinest site](https://cebufinest.com/sinulog-2020-mass-schedules-and-activities/). to add to the ambiance of the page.
+* A background photo of a colourful festivity called Sinulog was added and taken from photographer Ralph Llanos via the [Cebu Finest site](https://cebufinest.com/sinulog-2020-mass-schedules-and-activities/). to add to the ambiance of the page.
 * A video of Cebu plays in the background for more visual engagement for the users. This can be controlled by the user.
 * A slogan is added with 3 different colors that is relevant to the theme of the page with an opaque background that's the same colour as the body background.
 
@@ -251,6 +251,7 @@ Both my initial and updated wireframes can be viewed here: [Wireframes](https://
     * Mango - had default colours of #47c098 (Mountain Meadow), #cb8456(Raw Sienna), #edaf1a(Golden rod), #f9b81d(Selective Yellow).
         *Color names were taken from [Coolors](https://coolors.co/).
 * The White background on the logo was removed using [remove.bg](https://www.remove.bg/).
+
 ![logo-colors](wireframes/logo-colors.png)
 
 # Deployment
