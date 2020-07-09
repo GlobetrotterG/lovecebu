@@ -24,7 +24,6 @@ As we say in the Philippines, **_"Mabuhay!" ("Welcome!")._**
   * [Users Expectations](#users-expectations)
   * [User Stories](#user-stories)
 - [Wireframes](#wireframes)
-  * [Update on Wireframes](#update-on-wireframes)
 - [Features](#features)
   * [Home page](#home-page)
     + [Navbar](#navbar)
@@ -66,6 +65,7 @@ As we say in the Philippines, **_"Mabuhay!" ("Welcome!")._**
   * [Links](#links)
   * [Acknowledgements](#acknowledgements)
   * [Additional credits](#additional-credits)
+  * [Site Disclaimer](#site-disclaimer)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -123,11 +123,7 @@ But aside from that, I want people to know that there’s a reason to Love Cebu!
 
 My wireframes were all created using [Balsamiq wireframes](https://balsamiq.com/). I’ve individually created wireframes for Desktop, Tablet, and Mobile versions. 
 
-View my Wireframes [here](https://github.com/GlobetrotterG/lovecebu/tree/master/wireframes)
-
-## Update on Wireframes
-
-Updated wireframes were created to match the final layout of the website which can be viewed here: [Updated Wireframes](https://github.com/GlobetrotterG/lovecebu/tree/master/updatedwireframes)
+An updated wireframes were also created to match the final layout of the website. 
 
 Reasons why I had to update the wireframes: 
 * I removed the weather widget app as it wasn't responsive to how I wanted it positioned when testing it using tablet and mobile.
@@ -135,17 +131,19 @@ Reasons why I had to update the wireframes:
 * Updated the footer to get the copyright, social media logos and brand logo to be centered. 
 * As I had some ideas changed on the Final execution of the website on the Experience Cebu and Ready to Visit page, I wanted my Wireframe to mirror how it should look like to the website I created. 
 
+Both my initial and updated wireframes can be viewed here: [Wireframes](https://github.com/GlobetrotterG/lovecebu/tree/master/wireframes)
+
 # Features
 
 ## Home page 
 
 ### Navbar
 * 5 different page sections were created for users ease of navigating the site. 
-* Navbar are subdivided in Home, Experience Cebu, Ready to Visit?, About, and Contact pages.
+* Navbar are subdivided in to Home, Experience Cebu, Ready to Visit?, About, and Contact pages.
 * On the left, I placed the Love Cebu! 
 
 ### Jumbotron
-* A background photo of a colourful festivity called Sinulog was added and taken from photographer Ralph Llanos via the [cebufinest site](https://cebufinest.com/sinulog-2020-mass-schedules-and-activities/). to add to the ambiance of the page.
+* A background photo of a colourful festivity called Sinulog was added and taken from photographer Ralph Llanos via the [Cebufinest site](https://cebufinest.com/sinulog-2020-mass-schedules-and-activities/). to add to the ambiance of the page.
 * A video of Cebu plays in the background for more visual engagement for the users. This can be controlled by the user.
 * A slogan is added with 3 different colors that is relevant to the theme of the page with an opaque background that's the same colour as the body background.
 
@@ -164,7 +162,6 @@ Reasons why I had to update the wireframes:
 
 ### Footer
 * Social media icons added (Facebook, Instagram, Pinterest, Twitter and YouTube)
-* Copyright added
 * Small logo of Love Cebu! also added
 
 ## Experience Cebu page
@@ -217,7 +214,7 @@ Reasons why I had to update the wireframes:
 
 ### Jumbotron
 
-* The Section title **"About Love Cebu"** added and background photo similar to index.html. Text colour similar to Experience Cebu page.
+* The Section title **"About Love Cebu"** added and background photo similar to Home page. Text colour similar to Experience Cebu page.
 
 ### Page content
  * Has a Intro title **"Who We Are"** and an article about the person behind Love Cebu! site with my photo below the article. 
@@ -232,11 +229,13 @@ Reasons why I had to update the wireframes:
 * I used the site [Coolors](https://coolors.co/) to get colour inspiration for the site. 
 * Colours that were chosen were: 
   * #ffdab9 (Peach Puff) - Used for the body of the site and a highlight to the index.html Jumotron slogan **"Cebu...Queen City of the South."**
-  * #e77728 (Bright Orange) - Used as a background colour for the Navbar, Footer, buttons, and Section separator on pages. It's also been used on some words on the Jumbotron or Intro texts.
-  * #f9b81d (Vivid Orange) - Used in Contact form, when you over the Nav list, buttons and also used on some words on the Jumbotron slogan.
-  * #ff1616 (Vivid Red) - Used on some words on every page, except the Contact page. This is to blend with the **"Love"** word on the Love Cebu! logo which is the same colour. 
+  * #e77728 (Princeton Orange) - Used as a background colour for the Navbar, Footer, buttons, and Section separator on pages. It's also been used on some words on the Jumbotron or Intro texts.
+  * #f9b81d (Selcetive Yellow) - Used in Contact form, when you over the Nav list, buttons and also used on some words on the Jumbotron slogan.
+  * #ff1616 (Red RYB) - Used on some words on every page, except the Contact page. This is to blend with the **"Love"** word on the Love Cebu! logo which is the same colour. 
   * #fff (White) - Used as a text colour for the Nav lists, Social media links on Footer, and on Section separator on the Home page.
-  * Black has also been used as a default colour text, especially on articles and on the Experience Cebu page. 
+  * #000000 (Black) - Used as a default colour text, especially on articles and on the Experience Cebu page. 
+
+![colour-pallette](wireframes/colour-pallette.png)
 
 # Font 
 * Initially, 2 fonts were chosen for the site, which were Merriweather and Lato. But I decided for uniformity, and went for [Merriweather](https://fonts.google.com/specimen/Merriweather), and picked fonts 400, 700 and 900. 
@@ -246,11 +245,13 @@ Reasons why I had to update the wireframes:
 * Font name: Luckiest Guy 
 * I chose the design because of the fun and personal theme it has. A Mango icon was added to the logo, which is a fruit that Cebu is known for.
 * These are the colour themes of the logo: 
-    * Love - #ff1616
-    * Cebu! - #ff914d
-    * Brush stroke background - #ffdcba
-    * Mango - had default colours of #47c098, #cb8456, #edaf1a, #f9b81d
-* The White background on the logo was removed using [remove](https://www.remove.bg/).
+    * Love - #ff1616 (Red RYB)
+    * Cebu! - #ff914d (Atomic Tangerine)
+    * Brush stroke background - #ffdcba (Peach Puff)
+    * Mango - had default colours of #47c098 (Mountain Meadow), #cb8456(Raw Sienna), #edaf1a(Golden rod), #f9b81d(Selective Yellow).
+        *Color names were taken from [Coolors](https://coolors.co/).
+* The White background on the logo was removed using [remove.bg](https://www.remove.bg/).
+![logo-colors](wireframes/logo-colors.png)
 
 # Deployment
 
@@ -277,8 +278,9 @@ When deploying Love Cebu! using GitHub Pages, the following steps were made:
 * Navigate to your desired file location. 
 * Copy the following **code** and input it into your terminal to clone Love Cebu! 
 
-**git clone: [https://github.com/GlobetrotterG/lovecebu.git](https://github.com/GlobetrotterG/lovecebu.git)**
-
+```
+git clone: https://github.com/GlobetrotterG/lovecebu.git
+```
 
 # Testing
 
@@ -304,13 +306,13 @@ With the help of a [Google](https://www.google.com/) search, I was able to find 
 * CSS
 
 ## Tools and Libraries
-* Gitpod
-* Bootstrap
-* Font-awesome
-* Google font
-* Embed Google map
-* JQuery
-* remove
+* [Gitpod](https://gitpod.io/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Font-awesome](https://fontawesome.com/)
+* [Google Fonts](https://fonts.google.com/)
+* [Embed Google Map](https://www.embedgooglemap.net/en/)
+* [remove.bg](https://www.remove.bg/)
+* [Canva](https://www.canva.com/)
 
 # Credits
 
@@ -318,7 +320,6 @@ With the help of a [Google](https://www.google.com/) search, I was able to find 
 
 * Coding this project was made possible through the Modules learned with the Code Institute.
 * Additional, in-depth learning and code knowledge to come up with a responsive site using HTML, CSS, and Bootstrap also came from the following sites: 
-    * [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
     * [W3 Schools](https://www.w3schools.com/)
     * [MD Bootsrap](https://mdbootstrap.com/)
     * [MDN Web Docs](https://developer.mozilla.org/en-US)
@@ -373,7 +374,7 @@ With the help of a [Google](https://www.google.com/) search, I was able to find 
 
 ## Acknowledgements
 
-* I want to thank my amazing mentor, Simen Daehlin, who motivated and pushed me to create a project that best resonates my passion and what I like. He's been very helpful and have shared his wealth of knowledge that makes me learn more. Thank you Simen!
+* I want to thank my amazing mentor, [Simen Daehlin](www.github.com/Eventyret), who motivated and pushed me to create a project that best resonates my passion and what I like. He's been very helpful and have shared his wealth of knowledge that makes me learn more. Thank you Simen!
 * I also want to thank the Code Institute community via Slack, as they've been very helpful in answering my questions and also serves as a source of information when I needed answers to help me solve my code. 
 * This project is of course dedicated to my hometown Cebu! My love and inspiration for this island is the reason why I created this project! 
 
@@ -383,5 +384,9 @@ With the help of a [Google](https://www.google.com/) search, I was able to find 
 * My website inspiration came from the following sites: 
     * [Love Capetown](https://www.capetown.travel/)
     * [It's More Fun in the Philippines](https://www.itsmorefuninthephilippines.com/)
+
+## Site Disclaimer
+
+* This website and its contents were created for educational purposes.
 
 

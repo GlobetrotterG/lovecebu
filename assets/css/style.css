@@ -16,7 +16,7 @@ body {
     background-color: #e77728;
 }
 
-div .cebu-nav {
+.cebu-nav {
     margin: 0 2rem;
     letter-spacing: .08rem;
     color: #fff;
@@ -24,6 +24,7 @@ div .cebu-nav {
 
 .cebu-nav:hover {
     background-color: #f9b81d;
+    color: #fff;
 }
 
 /* Cebu Logo */
@@ -91,7 +92,7 @@ div .cebu-nav {
 
 /* Section text highlight */
 
-  div .section-border{
+.section-border{
   border: 2rem;
   padding: 2rem;
   background: #e77728;
@@ -124,35 +125,26 @@ div .cebu-nav {
     margin: 5rem 0;
 }
 
-@media(min-width: 992px) {
-    #center-form {
-        min-height: 250px;
-        margin: 0 auto;
-        max-width: 60%;
-        padding-bottom: 2rem;
-        background: #f9b81d;
-    }
-}
-
 /* Footer */
 
 .social-links {
     background-color: #e77728; 
 }
 
-div .cebu-footer {
+.cebu-footer {
     color: #fff;
 }
 
 .cebu-footer:hover {
-   background-color: #f9b81d;
+    background-color: #f9b81d;
+    color: #fff;
 }
 
 .footer-margin {
     margin-top: 10rem;
 }
 
-div .footer-logo a img {
+.footer-logo a img {
     width: 80px;
     height: auto;
     margin-bottom: 0.5rem;   
@@ -267,6 +259,18 @@ div .footer-logo a img {
 .gmap-canvas {
     overflow: hidden;
     background: none !important;
+}
+
+/* Media Query */
+
+@media(min-width: 992px) {
+    #center-form {
+        min-height: 250px;
+        margin: 0 auto;
+        max-width: 60%;
+        padding-bottom: 2rem;
+        background: #f9b81d;
+    }
 }
 
 
