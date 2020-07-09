@@ -54,11 +54,10 @@ body {
 
 /* Intro section text */
 
-.mabuhay-title {
-    
+.mabuhay-title {   
     font-size: 3rem;
     font-weight: 700;
-    margin-left: 2.5rem 0;
+    margin: 2.5rem 0;
 }
 
 .visit-intro {
