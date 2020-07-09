@@ -65,7 +65,7 @@ As we say in the Philippines, **_"Mabuhay!" ("Welcome!")._**
   * [Links](#links)
   * [Acknowledgements](#acknowledgements)
   * [Additional credits](#additional-credits)
-  * [Site Disclaimer](#site-disclaimer)
+- [Site Disclaimer](#site-disclaimer)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -385,7 +385,7 @@ With the help of a [Google](https://www.google.com/) search, I was able to find 
     * [Love Capetown](https://www.capetown.travel/)
     * [It's More Fun in the Philippines](https://www.itsmorefuninthephilippines.com/)
 
-## Site Disclaimer
+# Site Disclaimer
 
 * This website and its contents were created for educational purposes.
 
